@@ -1,0 +1,23 @@
+{
+  "name": "simple-api-nodejs",
+  "version": "1.0.0",
+  "description": "Simple exploratory code on how to make simple REST API with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdharmawan/simple-api-nodejs.git"
+  },
+  "author": "Zulfikar Dharmawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdharmawan/simple-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/zdharmawan/simple-api-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
